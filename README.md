@@ -191,7 +191,7 @@ pry(main)> dmns.draw_lottery_winner(dead_sea_scrolls)
 pry(main)> dmns.draw_lottery_winner(gems_and_minerals)
 # => nil
 
-#If no contestants are elgible for the lottery, nil is returned.
+#If no contestants are eligible for the lottery, nil is returned.
 
 ```
 

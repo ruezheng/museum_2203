@@ -30,7 +30,6 @@ describe Patron do
 
 		it "can add interests" do
 			expect(patron_1.interests).to eq ["Dead Sea Scrolls", "Gems and Minerals"]
-			expect(patron_2.interests).to eq ["IMAX"]
 		end
 	end
 end
